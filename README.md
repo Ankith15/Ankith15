@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankith15&label=Profile%20views&color=0e75b6&style=flat" alt="ankith15" /> </p>
 
-- 🌱 I’m currently learning **LLM's, AI**
+- 🌱 I’m Working on **LLM's, AI**
 
 - 📫 How to reach me **ankith15bhandary@gmail.com**
 
